@@ -28,7 +28,11 @@
     "url": "https://github.com/Wildhoney/Maptalk.co/issues"
   },
   "homepage": "https://github.com/Wildhoney/Maptalk.co#readme",
-  "devDependencies": {
-    "leaflet": "^0.7.3"
+  "devDependencies": {},
+  "dependencies": {
+    "leaflet": "^0.7.3",
+    "react": "^0.13.3",
+    "redux": "^0.12.0",
+    "seamless-immutable": "^3.0.0"
   }
 }
