@@ -28,7 +28,15 @@
     "url": "https://github.com/Wildhoney/Maptalk.co/issues"
   },
   "homepage": "https://github.com/Wildhoney/Maptalk.co#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "babelify": "^6.3.0",
+    "browserify": "^11.2.0",
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "js-yaml": "^3.4.2",
+    "karma": "^0.13.10"
+  },
   "dependencies": {
     "leaflet": "^0.7.3",
     "react": "^0.13.3",

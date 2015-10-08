@@ -1,0 +1,21 @@
+js:
+  build: public/bundle.js
+
+  src:
+    - src/js/Maptalk.js
+    - src/js/*.js
+    - src/js/**/*.js
+    - src/js/**/**/*.js
+
+  tests:
+    - tests/*.test.js
+    - tests/**/*.test.js
+    - tests/**/**/*.test.js
+
+sass:
+  build: public/bundle.css
+
+  src:
+    - src/sass/Default.scss
+    - src/sass/**/*.scss
+    - src/sass/**/**/*.scss
